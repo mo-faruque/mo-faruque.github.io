@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cs.nmsu.edu./~mfaruque/sitemap.xml
