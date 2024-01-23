@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mo-faruque.github.io//al-folio/sitemap.xml
+Sitemap: https://mo-faruque.github.io/al-folio/sitemap.xml
